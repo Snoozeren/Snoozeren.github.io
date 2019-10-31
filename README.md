@@ -1,5 +1,5 @@
 # LÆSMIG
 
 - [Min første hjemmeside](website)
-- [Min stickman hjemmeside](stickman)
+- [Min blæste hjemmeside](stickman)
 
