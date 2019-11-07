@@ -6,4 +6,4 @@ console.log(result)
 
 for (let) 
 
-Så det okay
+Så det okay i think
