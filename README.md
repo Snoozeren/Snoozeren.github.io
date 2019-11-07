@@ -2,7 +2,7 @@
 
 - [Min første hjemmeside](website)
 - [Min blæste hjemmeside](stickman)
-- [home](home.html)
-- [Noget mat lommeregner](funktion-demo.js)
-- [madpack](madpakke.js)
+- [home](website/home.html)
+- [Noget mat lommeregner](website/funktion-demo.js)
+- [madpack](website/madpakke.js)
 
